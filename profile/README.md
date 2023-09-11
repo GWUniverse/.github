@@ -1,10 +1,12 @@
-## Hi there 👋
+## 7-Dimensional Telescope and 7-Dimensional Sky Survey
 
-**Heavily under construction**
+### Overview
+* Documentation
+* 7-Dimensional Telescope (7DT)
+* 7-Dimensional Sky Survey (7DS)
+  * Science Cases
+  * Simulation
 
-### 7-Dimensional Telescope and 7-Dimensional Sky Survey
-
-### Navigator
 
 <!--
 
@@ -18,4 +20,4 @@
 
 -->
 
-last updated on Aug 11, 2023
+last updated on Sep 11, 2023
